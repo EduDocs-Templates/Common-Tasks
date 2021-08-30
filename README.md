@@ -26,3 +26,8 @@ These tasks consist of installing pertinent software and mastering relevant prog
 * [Pandas](https://pandas.pydata.org/)
 * [Matplotlib](https://matplotlib.org/)
 
+
+## [Exercise](./Identity.ipynb): Identity
+
+* **Edit** and **Run**: IPython notebook
+* **Add**, **Commit**, and **Push**: Changes
