@@ -20,7 +20,7 @@ Information about Git can be found on the project website.
 
 [GitHub](https://github.com/) is a web-based hosting service for source code management (SCM).
 It is built on the Git revision control system and offers free accounts for open source and educational projects.
-We will employ a Git archive for programming challenges throughout the semester.
+We will employ Git for programming challenges throughout the semester.
 A short list of frequently used commands appears below.
 
 
