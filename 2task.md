@@ -22,6 +22,7 @@ Python interpreters are available for installation on many operating systems, al
 
 * __Peruse__: The [Anaconda](https://www.anaconda.com/open-source) website.
 * __Download and Install__: [Anaconda](https://www.anaconda.com/products/individual-d) (if needed).
+* __Test__: Python interpreter.
 
 
 ## Option 1: Jupyter
