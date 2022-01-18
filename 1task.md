@@ -51,7 +51,7 @@ The `status` command lists the status of working files and directories.
 
 ### Action Items
 
-* __Account__: Go to [GitHub](https://github.com) and create a developer account (if needed).
+* __Account__: Go to [GitHub.com](https://github.com) and create a developer account (if needed).
 Complete the GitHub fields `Name`, `Public email`, and upload a picture.
 * __Website__: Although this is discouraged, students may elect to use the [GitHub](https://github.com) web interface to complete their programming challenges.
 
