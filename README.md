@@ -32,7 +32,7 @@ Several Python modules can be leveraged within machine problems.
 
 ## Exercise
 
-Complete the Python exercise described in [identity.ipynb](./identity.ipynb)
+Complete the Python exercise described in [Identity.ipynb](./Identity.ipynb)
 
 ### Action Items
 
