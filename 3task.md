@@ -8,7 +8,7 @@
 ### Action Items
 
 * __Peruse__: [About SciPy](https://www.scipy.org/about.html).
-* __Peruse__: [Getting Started](https://www.scipy.org/getting-started.html).
+* __Peruse__: [Getting Started](https://docs.scipy.org/doc/scipy/).
 
 
 ## NumPy
